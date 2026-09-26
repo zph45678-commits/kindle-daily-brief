@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>我的每日重点简报</title>
+<link>https://github.com/zph45678-commits/kindle-daily-brief</link>
+<description>为 FreshRSS 与 Kindle 优化的每日重点简报</description>
+<language>zh-CN</language>
+<item>
+<title>测试简报｜GitHub RSS 已接通</title>
+<link>https://github.com/zph45678-commits/kindle-daily-brief</link>
+<guid isPermaLink="false">daily-brief-github-test-20260926</guid>
+<pubDate>Sat, 26 Sep 2026 06:00:00 +0000</pubDate>
+<description><![CDATA[<h1>GitHub RSS 链路测试成功</h1><p>如果 FreshRSS 能看到这一篇，说明 GitHub → FreshRSS → Kindle 的云端阅读链路已经接通。</p><h2>下一步</h2><p>后续每日重点简报会继续追加到这个 Feed，无需把 NAS 的写入接口暴露到公网。</p>]]></description>
+<content:encoded><![CDATA[<h1>GitHub RSS 链路测试成功</h1><p>如果 FreshRSS 能看到这一篇，说明 GitHub → FreshRSS → Kindle 的云端阅读链路已经接通。</p><h2>下一步</h2><p>后续每日重点简报会继续追加到这个 Feed，无需把 NAS 的写入接口暴露到公网。</p>]]></content:encoded>
+</item>
+</channel>
+</rss>
